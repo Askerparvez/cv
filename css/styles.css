@@ -1,10 +1,10 @@
 body {
-  background: linear-gradient(to top, rgb(195, 20, 50), rgb(36, 11, 54));
+  background: #c8d5b9;
 
 }
 
 hr {
-  border-color: #d9adad;
+  border-color: 8fc0a9;
   border-style: dotted none none none;
   border-width: 5px;
   height: 0px;
@@ -12,47 +12,47 @@ hr {
 }
 
 p {
-  color: white;
+  color: black;
   border-color: 5px black;
 }
 
 h1 {
-  color: #ffc7c7;border-color: 5px black;
+  color: black;border-color: 5px black;
 }
 
 h3 {
-  color: #ffc7c7;border-color: 5px black;
+  color: black;border-color: 5px black;
 }
 
 table {
-  color: white;
+  color: black;
 }
 
 ul {
-  color: white;
+  color: Black;
 }
 
 ol {
-  color: white;
+  color: Black;
 }
 
 a :link {
-  color: #ffc7c7;
+  color: #blue;
 }
 
 a:visited {
-  color: #ffc7c7;
+  color: #blue;
 }
 
 a:active {
-  color: #ffc7c7;
+  color: #blue;
 }
 
 a:hover {
-  color: #ffc7c7;
+  color: #blue;
 }
 form{
-  color:white;
+  color:Black;
 }
 input{
   border-color: 5px black;
