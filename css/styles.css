@@ -1,0 +1,65 @@
+body {
+  background: linear-gradient(to top, rgb(195, 20, 50), rgb(36, 11, 54));
+
+}
+
+hr {
+  border-color: #d9adad;
+  border-style: dotted none none none;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+
+p {
+  color: white;
+  border-color: 5px black;
+}
+
+h1 {
+  color: #ffc7c7;border-color: 5px black;
+}
+
+h3 {
+  color: #ffc7c7;border-color: 5px black;
+}
+
+table {
+  color: white;
+}
+
+ul {
+  color: white;
+}
+
+ol {
+  color: white;
+}
+
+a :link {
+  color: #ffc7c7;
+}
+
+a:visited {
+  color: #ffc7c7;
+}
+
+a:active {
+  color: #ffc7c7;
+}
+
+a:hover {
+  color: #ffc7c7;
+}
+form{
+  color:white;
+}
+input{
+  border-color: 5px black;
+  border-radius: 9px;
+}
+textarea{
+  border-color: 5px black;
+  border-radius: 9px;
+
+}
